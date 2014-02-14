@@ -1,0 +1,21 @@
+{
+  "name": "enmasse",
+  "version": "0.0.1",
+  "description": "A toolbox for creating large-scale multi-agent systems.",
+  "author": "Jos de Jong <wjosdejong@gmail.com> (https://github.com/josdejong)",
+  "keywords": [
+    "agent",
+    "multi-agent",
+    "logical agents",
+    "large-scale",
+    "simulation",
+    "scalable"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/enmasseio/enmasse.git"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {}
+}
